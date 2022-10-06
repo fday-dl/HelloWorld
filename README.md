@@ -1,2 +1,2 @@
 # HelloWorld
-Test repo to be used in AWS Codepipeline
+This is a test repo to be used in AWS Codepipeline
